@@ -1,1 +1,1 @@
-# Poker-Settler
+# PokerSettler
