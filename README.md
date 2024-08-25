@@ -18,6 +18,44 @@ The Poker Settler project is designed to simplify the process of settling gains 
 - **Minimum Zelle Transaction:** $1
 - **Third-Party Libraries/Tools:** (To be specified based on development needs)
 
+## Setup Instructions
+
+Follow these steps to set up the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/PokerSettler.git
+cd PokerSettler
+```
+
+### 2. Install Dependencies
+```bash
+npm install
+```
+
+### 3. Install Pods (for iOS)
+```bash
+cd ios
+pod install
+cd ..
+```
+### 4. Run the Project
+To run the app on an iOS simulator, use the following command:
+```bash
+npx react-native run-ios
+```
+For Android (assuming Android Studio is set up):
+```bash
+npx react-native run-android
+```
+
+### 5. Build and Run
+You can also open the Xcode project directly for iOS:
+```bash
+open ios/PokerSettler.xcworkspace
+```
+
 ## Timeline and Milestones
 
 - **Milestone 1:** Complete the project overview and key features; finalize the selection of development tools and frameworks.
@@ -35,3 +73,19 @@ The Poker Settler project is designed to simplify the process of settling gains 
 
 - **Feedback Collection:** Feedback will be gathered through regular reviews, user testing sessions, and stakeholder meetings.
 - **Approval Process:** Each development phase will be reviewed and approved by the project owner before proceeding to the next stage.
+
+## Xcode Preview Screenshots
+
+Here are some screenshots of the Xcode previews for various views in the Poker Settler app:
+
+### Game Setup View
+![Game Setup View](https://drive.google.com/file/d/1Q4obnR89y6sT3-T-quue7j2fjx-ZR3cI/view?usp=sharing)
+
+### Player Management View
+![Player Management View](https://drive.google.com/file/d/1NZBOMg-R6GA1IFeoh-XhJNjM2wktlEsg/view?usp=sharing)
+
+### Results Sharing View
+![Results Sharing View](path_to_screenshot_3.png)
+
+*(Replace `path_to_screenshot_X.png` with the actual paths to your screenshots in the repository.)*
+
