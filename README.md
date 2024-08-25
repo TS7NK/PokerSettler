@@ -79,10 +79,10 @@ open ios/PokerSettler.xcworkspace
 Here are some screenshots of the Xcode previews for various views in the Poker Settler app:
 
 ### Game Setup View
-![Game Setup View](assets/GameSetup.png)
+<img src="assets/GameSetup.png" alt="Game Setup View" width="300"/>
 
 ### Player Management View
-![Player Management View](assets/PlayerManagement.png)
+<img src="assets/PlayerManagement.png" alt="Game Setup View" width="300"/>
 
 ### Results Sharing View
 ![Results Sharing View](path_to_screenshot_3.png)
